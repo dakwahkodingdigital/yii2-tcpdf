@@ -1,5 +1,6 @@
 {
     "name": "dakwahkodingdigital/yii2-tcpdf",
+    "version": "1.0.0",
     "description": "Memudahkan Install extension TCPDF ke Yii2 Framework Project",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension", "tcpdf", "yii2-tcpdf"],
