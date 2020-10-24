@@ -14,7 +14,12 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.0"
+        "yiisoft/yii2": "~2.0.0",
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2": "~2.0.0",
+        "php": ">=5.3.0"
     },
     "autoload": {
         "psr-4": {
@@ -24,7 +29,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/dakwahkodingdigital/yii2-tcpdf.git"
+            "url": "https://github.com/dakwahkodingdigital/yii2-tcpdf"
         }
     ]
 }
