@@ -38,5 +38,11 @@
             "tcpdf/include/barcodes/pdf417.php",
             "tcpdf/include/barcodes/qrcode.php"
         ]
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/dakwahkodingdigital/yii2-tcpdf.git"
+        }
+    ]
 }
